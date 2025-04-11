@@ -1,19 +1,6 @@
-# auth_example
+todo: 
+- add Pinia
+- merge with todo example
+- implement user based filter for todos (hint: subcollections)
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+To riješin kad mi se bude dalo
